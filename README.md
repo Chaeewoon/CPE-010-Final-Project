@@ -92,15 +92,16 @@ John Pork is seated at PC 01.
 
 ## Main Menu
 
-| Key | Section |
-|---|---|
-| 1 | Front Desk |
-| 2 | Computers |
-| 3 | Members |
-| 4 | Billing and Reports |
-| 5 | Performance Lab |
-| 0 | Exit |
+| Key | Section | What it does |
+|---|---|---|
+| 1 | Front Desk | Check in a customer or a group, end a session and pay, pause or resume a session, view active sessions and the waiting line. If all PCs are taken, customers join the waiting line. |
+| 2 | Computers | View the status board, mark a PC as under maintenance or available, and undo the last maintenance change. |
+| 3 | Members | Register a new member, look up a member by ID, and list all members. Members get a 10% discount on billing. |
+| 4 | Billing and Reports | View all transactions, sort by highest payment or longest session, search by customer name or receipt number, print the next receipt, and see the daily sales summary. |
+| 5 | Performance Lab | Shows the theoretical time complexity of each operation and measured running times. |
+| 0 | Exit | Closes the program. |
 
+Pick a number to go in, and `0` to go back.
 ---
 
 ## Team
