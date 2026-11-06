@@ -108,11 +108,11 @@ Pick a number to go in, and `0` to go back.
 
 | Name | Student No. | Role | Main Contributions |
 |---|---|---|---|
-| Abello, Ralf | 2515011 | Project Leader | |
+| Abello, Ralf | 2515011 | Project Leader | `WaitQueue.h`, `ReceiptQueue.h` , `UndoStack.h` |
 | Busa, Emmanuel A. | 2516004 | Developer and documentation | `TransactionLog.h`, `FloorGraph.h`, `Cafe.h`, `Benchmark.h` |
 | Nacion, Daniela | 2514751 | Developer and documentation | `Types.h`, `Utils.h`, `main.cpp` |
 | Paraiso, Wayne | 2512946 | Developer and documentation | `Searching.h`, `Sorting.h`, `MemberTree.h` |
-| Serrano, Gabriel | 2515580 | Developer and documentation | Flowchart, `Menu.h`, `Stations.h`, `SessionList.h` |
+| Serrano, Gabriel | 2515580 | Developer and documentation | `Menu.h`, `Stations.h`, `SessionList.h` |
 
 ---
 
