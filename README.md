@@ -77,7 +77,7 @@ Checking in a walk-in customer:
 ```
 Select: 1              (Front Desk)
 Select: 1              (Check in a customer)
-Customer name: Juan
+Customer name: John Pork
 Member ID (0 if walk-in): 0
 Preferred PC, 0 for any: 0
 ```
@@ -85,7 +85,7 @@ Preferred PC, 0 for any: 0
 Output:
 
 ```
-Juan is seated at PC 01.
+John Pork is seated at PC 01.
 ```
 
 ---
