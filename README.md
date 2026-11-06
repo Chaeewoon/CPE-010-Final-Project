@@ -116,6 +116,3 @@ Pick a number to go in, and `0` to go back.
 
 ---
 
-<div align="center">
-<sub>Built for CPE 010 at the Technological Institute of the Philippines, Quezon City</sub>
-</div>
